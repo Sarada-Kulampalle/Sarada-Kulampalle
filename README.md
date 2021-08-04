@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarada-Kulampalle
 - 👀 I’m interested in Web design, machine learning
-- 🌱 I’m currently learning full stack with MERN 
+- 🌱 I’m currently learning full stack with MERN technologies.
 - 💞️ I’m looking to collaborate on full stack developer
 - 📫 How to reach me on saradakulampalle@gmail.com
 
